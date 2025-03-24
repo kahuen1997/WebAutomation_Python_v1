@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ddf5a42-f1a9-42a2-97f7-d446e5fbf113" name="Changes" comment="" />
+    <list default="true" id="2ddf5a42-f1a9-42a2-97f7-d446e5fbf113" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tags_Test/test_rosemaryBrown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags_Test/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/google.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags_Test/test_google.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/rosemaryBrown.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags_Test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplepackage/fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplepackage/fixture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplepackage/test_SampleFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplepackage/test_SampleFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplepackage/test_SampleFile2.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplepackage/test_SampleFile2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2uZWPWXN6Q0QMat9ka3r8CVVP6e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,10 +43,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in google.py.executor": "Run",
+    "Python tests.Python tests in rosemaryBrown.py.executor": "Run",
+    "Python tests.Python tests in test_SampleFile.py.executor": "Run",
+    "Python tests.Python tests in test_google.py.executor": "Run",
+    "Python tests.pytest in samplepackage.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/kahue/PycharmProjects/WebSelenium_python_v1/fixtures_googletest",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1\fixtures_googletest" />
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1\tags_Test" />
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1" />
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1\fixtures" />
+      <recent name="C:\Users\kahue\PycharmProjects\WebSelenium_python_v1\samplepackage" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="WebSelenium_python_v1" />
@@ -48,6 +91,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in samplepackage" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="WebSelenium_python_v1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (WebSelenium_python_v1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samplepackage" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\kahue\\PycharmProjects\\WebSelenium_python_v1\\samplepackage&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.pytest in samplepackage" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -66,16 +131,5 @@
       <updated>1742456552131</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
