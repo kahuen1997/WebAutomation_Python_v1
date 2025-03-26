@@ -1,6 +1,8 @@
 import time
 
+import allure
 import pytest
+from allure_commons.types import AttachmentType
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -26,6 +28,7 @@ def test_seleniumbasic_v1(setup_teardown):
     wait = WebDriverWait(driver, timeout=2)
     wait.until(lambda _: element.is_displayed())
     element.click()
+    allure.attach(driver.get_screenshot_as_png(), name="Define", attachment_type=AttachmentType.PNG)
     time.sleep(3)
 
 @pytest.mark.regression

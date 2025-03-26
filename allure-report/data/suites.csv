@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6002","test_allureReport_v1","allureServerity","Thu Mar 27 00:54:18 HKT 2025","passed","Thu Mar 27 00:54:24 HKT 2025","","test_Serverity","",""
+"","6792","test_allureReport_v3","allureServerity","Thu Mar 27 00:54:18 HKT 2025","passed","Thu Mar 27 00:54:25 HKT 2025","","test_Serverity","",""
+"","3979","test_seleniumbasic_v2","test_selenium","Wed Mar 26 11:00:42 HKT 2025","passed","Wed Mar 26 11:00:46 HKT 2025","","test_seleniumbasic","",""
+"","16231","test_seleniumbasic_v1","test_selenium","Wed Mar 26 11:00:42 HKT 2025","passed","Wed Mar 26 11:00:58 HKT 2025","","test_seleniumbasic","",""
+"","6327","test_allureReport_v2","allureServerity","Thu Mar 27 00:54:18 HKT 2025","passed","Thu Mar 27 00:54:25 HKT 2025","","test_Serverity","",""

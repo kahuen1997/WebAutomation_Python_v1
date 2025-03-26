@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ddf5a42-f1a9-42a2-97f7-d446e5fbf113" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test_selenium_allureReport/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_selenium_allureReport/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_selenium_allureReport/test_selenium_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_selenium_allureReport/test_selenium_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddOption/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddOption/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddOption/test_diffbrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allureServerity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allureServerity/test_Serverity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allureServerity_failScreenShot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allureServerity_failScreenShot/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allureServerity_failScreenShot/test_Serverity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures_paraWithDriver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures_paraWithDriver/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures_paraWithDriver/test_diffbrowser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_selenium/test_seleniumbasic.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_selenium/test_seleniumbasic.py" afterDir="false" />
     </list>

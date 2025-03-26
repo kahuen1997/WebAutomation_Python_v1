@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"a257eb0c0cbdfb1047272479d234ac5d","name":"allureServerity","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"677e7ba47d76faac7a6dbb7fd0832aaf","name":"test_selenium","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
